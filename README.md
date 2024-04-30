@@ -12,6 +12,7 @@ Welcome to the Elara HR Website repository! This project aims to create a user-f
 - Contact form for inquiries and consultations
 
 
+![Screenshot 2024-04-30 225959](https://github.com/iamafridi/elara-portfolio/assets/134744098/7ef453d5-6bc1-4d3c-bf12-24206e1b4eb6)
 
 
 ## Installation
